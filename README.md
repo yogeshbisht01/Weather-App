@@ -1,5 +1,5 @@
 # Weather-App
-In this weather web app, you can get the weather details of a particular city by entering the city, country or any valid location name. You’ll get many weather details in this web app like temperature in celsius, weather conditions, wind speed, humidity. Also if you entered an invalid city name then there is shown an error message.
+In this weather web app, you can get the weather details of a particular place by entering the city, country or any valid location name. You’ll get many weather details in this web app like temperature in celsius, weather conditions, wind speed, humidity. Also if you entered an invalid city name then there is shown an error message.
 
 # Technology Used: 
 OpenWeather API, Sublime code editor, Github.
