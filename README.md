@@ -40,4 +40,4 @@ To add images, so that it automatically display according to weather condition.
 
 To add search query clear button.
 
-(##And many more.....)
+(And many more......)
